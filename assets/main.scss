@@ -143,6 +143,11 @@ header.mdl-layout__header {
     }
 }
 
+.mdl-card__supporting-text {
+    flex: 1;
+}
+
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "layout"
